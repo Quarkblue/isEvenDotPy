@@ -1,2 +1,2 @@
 # isEvenDotPy
-LOL
+LOL try it out yourself
